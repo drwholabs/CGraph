@@ -37,5 +37,24 @@ void banner() {
   printf("\t                                          .88 88\n");
   printf("\t                                      d8888P  dP\033[0;37m      https://github.com/drwholabs\n\n\n");
   printf("\t\t--- Developed by DrWho Labs ---      #============================================#\n");
-  printf("\t\t\t--- CGraph {\033[0;33m1.0.0#dev\033[0;37m} ---   ||                                          ||\n\n");
+  printf("\t\t\t--- CGraph {\033[0;33m1.0.0#dev\033[0;37m} ---   ||                                          ||\n");
+  printf("\t\t\t\t\t\t     ||      MD5 - SHA256 - HMAC - SHA1          ||\n");
+  printf("\t\t\t\t\t\t     ||       SHA224 - SHA384 - SHA512           ||\n");
+  printf("\t\t\t\t\t\t     ||                                          ||\n");
+  printf("\t\t\t\t\t\t     ||                                          ||\n");
+  printf("\t\t\t\t\t\t     ||                                          ||\n");
+  printf("\t\t\t\t\t\t     ||                                          ||\n");
+  printf("\t\t\t\t\t\t     ||                                          ||\n");
+  printf("\t\t\t\t\t\t     ||                                          ||\n");
+  printf("\t\t\t\t\t\t     ||                                          ||\n");
+  printf("\t\t\t\t\t\t     ||                                          ||\n");
+  printf("\t\t\t\t\t\t     ||                                          ||\n");
+  printf("\t\t\t\t\t\t     ||                                          ||\n");
+  printf("\t\t\t\t\t\t     #============================================#\n");
+  printf("\t\t\t\t\t\t     ||                                          ||\n");
+  printf("\t\t\t\t\t\t     ||                                          ||\n");
+  printf("\t\t\t\t\t\t     ||                                          ||\n");
+  printf("\t\t\t\t\t\t     ||                                          ||\n");
+  printf("\t\t\t\t\t\t     ||                                          ||\n");
+  printf("\t\t\t\t\t\t     #============================================#\n\n");
 }
